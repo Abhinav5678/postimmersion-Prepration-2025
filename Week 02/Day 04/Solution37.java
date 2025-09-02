@@ -1,4 +1,4 @@
-public class Solution2 {
+public class Solution37 {
     public static int square(int x) {
         return x * x;
     }

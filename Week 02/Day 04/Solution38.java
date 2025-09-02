@@ -1,4 +1,4 @@
-public class Solution3 {
+public class Solution38 {
     public static int foo(int x) {
         if (x == 0) return 1;
         return x * foo(x - 1);
